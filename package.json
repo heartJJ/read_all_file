@@ -1,0 +1,16 @@
+{
+  "name": "read_all_file",
+  "version": "1.0.3",
+  "description": "read all file path in a dir, support for multiple tires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "read",
+    "filepath",
+    "dir"
+  ],
+  "author": "time_chaser",
+  "license": "ISC"
+}
